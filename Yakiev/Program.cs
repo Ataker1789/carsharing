@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Marunina_a_17_20_TR
+namespace Yakiev
 {
     static class Program
     {
